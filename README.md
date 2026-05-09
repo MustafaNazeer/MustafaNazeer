@@ -1,4 +1,4 @@
-# Mustafa Nazeer
+# Hey there! It's Mustafa Nazeer 👋
 
 CS student at UT Arlington. I build full stack web apps, ML pipelines, and AI integrations.
 
