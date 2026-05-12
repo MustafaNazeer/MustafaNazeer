@@ -29,5 +29,5 @@ Open to summer 2027 SWE internships.
 
 ## Contact
 
-Email: Mustafa421670@gmail.com  
+Email: Mustafa.nazeer06@gmail.com  
 LinkedIn: [linkedin.com/in/mustafa-nazeer](https://www.linkedin.com/in/mustafa-nazeer/)
